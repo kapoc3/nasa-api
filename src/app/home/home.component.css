@@ -1,0 +1,12 @@
+.car-container{
+  align-items: center;
+}
+
+.card-content{
+  width: 600px;
+  margin: 10px auto;
+}
+
+h3{
+  text-align: center;
+}
